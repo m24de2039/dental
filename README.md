@@ -1,4 +1,4 @@
-# 🦷 Dental Disease Classifier (Streamlit App)
+# 🦷 Dental Disease Classifier
 
 Upload a dental image to predict the type of dental condition using a trained PyTorch CNN model.
 
